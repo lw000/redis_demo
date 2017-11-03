@@ -44,6 +44,7 @@
 									<listOptionValue builtIn="false" value="/usr/local/lib/libhiredis.a"/>
 									<listOptionValue builtIn="false" value="/usr/local/lib/libuv.a"/>
 									<listOptionValue builtIn="false" value="/usr/local/lib/libevent.a"/>
+									<listOptionValue builtIn="false" value="/usr/local/lib/libevent_pthreads.a"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.linker.input.1077124153" superClass="cdt.managedbuild.tool.gnu.cpp.linker.input">
 									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
